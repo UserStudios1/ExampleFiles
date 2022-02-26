@@ -1,2 +1,2 @@
 Test
-This is a Tes repository nothing special.
+This is a Test repository nothing special.
