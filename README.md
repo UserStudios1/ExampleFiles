@@ -1,3 +1,1 @@
-Test
-
-This is a Test repository nothing special.
+This is a Repository for some example files that you can use.
